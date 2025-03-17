@@ -1,5 +1,8 @@
 # 💫 About Me:
-🛰️ I'm currently working on improving my skills in Cybersecurity,.<br>🛠️ I'm looking for help with mastering advanced cybersecurity techniques and cloud security.<br>🌱 I'm currently learning ethical hacking, networking fundamentals, and malware analysis.<br>⚡ I participated in multiple hackathons and CTF competitions!
+🎓 Computer Science Student @ West University of Timișoara (2nd Year).<br>
+💻 Passionate about Cybersecurity & Problem-Solving.<br>
+🚀 Always eager to learn, build, and explore new technologies.<br>
+🛰️ I'm currently working on improving my skills in Cybersecurity.<br>🛠️ I'm looking for help with mastering advanced cybersecurity techniques and cloud security.<br>🌱 I'm currently learning ethical hacking, networking fundamentals, and malware analysis.<br>⚡ I participated in multiple hackathons and CTF competitions!
 
 
 
